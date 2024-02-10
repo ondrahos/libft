@@ -17,4 +17,4 @@ The ft_printf project challenges students to recreate the functionality of the s
 
 ### Conclusion
 
-The ft_printf project is a crucial exercise in understanding the intricacies of formatted output and mastering the inner workings of a fundamental C function. By successfully completing this project, students at 42 School deepen their knowledge of C programming and strengthen their abilities as software developers.
+The ft_printf project is a crucial exercise in understanding the intricacies of formatted output and mastering the inner workings of a fundamental C function. By successfully completing this project, students deepen their knowledge of C programming and strengthen their abilities as software developers.
