@@ -10,20 +10,6 @@ The ft_printf project challenges students to recreate the functionality of the s
 - Handle different format flags, field widths, precision, and length modifiers accurately.
 - Ensure compatibility and functionality across different data types and edge cases.
 
-### Core Features
-
-1. **Format Specifiers:**
-   - Implementation of various format specifiers, including string `%s`, integer `%d`, floating-point `%f`, character `%c`, pointer `%p`, hexadecimal `%x`, `%X`, unsigned `%u`, etc.
-
-2. **Flags and Modifiers:**
-   - Support for format flags such as `+`, `-`, `0`, `#`, and space, as well as field width and precision modifiers.
-   
-3. **Length Modifiers:**
-   - Handling length modifiers like `hh`, `h`, `l`, `ll`, `j`, `z`, `t`, and `L` for proper interpretation of different data types.
-
-4. **Error Handling:**
-   - Robust error handling to gracefully manage invalid format strings and unexpected behavior.
-
 ### Benefits
 
 - Enhances understanding of formatted output in C programming.
