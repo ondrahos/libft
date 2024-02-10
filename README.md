@@ -2,7 +2,7 @@
 
 ### Project Overview
 
-The ft_printf project at 42 School challenges students to recreate the functionality of the standard printf function from the C Standard Library. It requires students to implement their own version of printf, capable of handling various format specifiers and modifiers.
+The ft_printf project challenges students to recreate the functionality of the standard printf function from the C Standard Library. It requires students to implement their own version of printf, capable of handling various format specifiers and modifiers.
 
 ### Key Objectives
 
