@@ -7,7 +7,6 @@ The ft_printf project challenges students to recreate the functionality of the s
 ### Key Objectives
 
 - Replicate the behavior of the standard printf function, including support for format specifiers such as `%s`, `%d`, `%f`, `%c`, `%p`, `%x`, `%X`, `%u`, etc.
-- Handle different format flags, field widths, precision, and length modifiers accurately.
 - Ensure compatibility and functionality across different data types and edge cases.
 
 ### Benefits
